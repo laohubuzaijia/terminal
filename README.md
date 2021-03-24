@@ -32,7 +32,7 @@ This is our preferred method.
 ### Other install methods
 
 #### Via GitHub
-
+## 
 For users who are unable to install Windows Terminal from the Microsoft Store,
 released builds can be manually downloaded from this repository's [Releases
 page](https://github.com/microsoft/terminal/releases).
